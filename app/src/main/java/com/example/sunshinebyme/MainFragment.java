@@ -51,6 +51,8 @@ public class MainFragment extends Fragment {
         weathers.add(new Weather(R.drawable.ic_snow_24dp, "Tuesday", "Snowly", 22, 12));
         weathers.add(new Weather(R.drawable.ic_cloud_24dp, "Wednesday", "Cloudly", 23, 15));
         weathers.add(new Weather(R.drawable.ic_rain_24dp, "Thursday", "Rainly", 26, 16));
+        weathers.add(new Weather(R.drawable.ic_rain_24dp, "Thursday", "Rainly", 26, 16));
+        weathers.add(new Weather(R.drawable.ic_rain_24dp, "Thursday", "Rainly", 26, 16));
         return weathers;
     }
 
